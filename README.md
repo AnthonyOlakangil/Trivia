@@ -1,2 +1,4 @@
 - exploring frontend markup languages
-- simple trivia game 
+- simple trivia game
+- to view, enter link into your search bar:
+- https://anthonyolakangil.github.io/Trivia/trivia/
