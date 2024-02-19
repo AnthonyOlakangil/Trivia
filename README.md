@@ -1,4 +1,4 @@
-- exploring frontend markup and styling languages
+- exploring markup and styling languages
 - simple trivia game
 - to view, enter link into your search bar:
 - https://anthonyolakangil.github.io/Trivia/trivia/
